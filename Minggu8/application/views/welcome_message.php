@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Welcome to Prisca Dewi Anggita</title>
+	<title>Welcome to Hasanatun Isrolia</title>
 
 	<style type="text/css">
 
@@ -68,12 +68,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Prisca Dewi Anggita E31190286 A</h1>
+	<h1>Hasanatun Isrolia E31190134 A</h1>
 
 	<div id="body">
-		<p>Nama     : Prisca Dewi Anggita</p>
+		<p>Nama     : Hasanatun Isrolia</p>
  
-		<p>NIM      : E31190286</p>
+		<p>NIM      : E31190134</p>
 		
 		<p>Golongan : A</p>
 		
